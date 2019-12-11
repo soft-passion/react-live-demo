@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\react native\\src\\reactnative-rtmp-demo\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ZY\\.gradle\\caches\\transforms-2\\files-2.1\\8417ca4b6f28d2b0f419b2eba329b554\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

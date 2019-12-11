@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\react native\\src\\reactnative-rtmp-demo\\android\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v25\\values-v25.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ZY\\.gradle\\caches\\transforms-2\\files-2.1\\8417ca4b6f28d2b0f419b2eba329b554\\res\\values-v25\\values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}

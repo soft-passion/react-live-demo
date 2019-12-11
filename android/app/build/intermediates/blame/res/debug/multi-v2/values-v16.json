@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\react native\\src\\reactnative-rtmp-demo\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ZY\\.gradle\\caches\\transforms-2\\files-2.1\\a5a6538c7cb5664a9391ea91fe7ded5d\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ZY\\.gradle\\caches\\transforms-2\\files-2.1\\8417ca4b6f28d2b0f419b2eba329b554\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}

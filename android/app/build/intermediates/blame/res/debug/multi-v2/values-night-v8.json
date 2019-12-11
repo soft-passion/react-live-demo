@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\react native\\src\\reactnative-rtmp-demo\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ZY\\.gradle\\caches\\transforms-2\\files-2.1\\8417ca4b6f28d2b0f419b2eba329b554\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "120,204,288,384,486,588,682"
+                    }
+                }
+            ]
+        }
+    ]
+}
